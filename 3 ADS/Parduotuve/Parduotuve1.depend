@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1652266462 source:c:\users\rober\desktop\3 ads\parduotuve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"queue.h"
+	"pqueue.h"
+
+1652108360 c:\users\rober\desktop\3 ads\parduotuve\queue.h
+
+1652167302 c:\users\rober\desktop\3 ads\parduotuve\pqueue.h
+	<stddef.h>
+
+1652167296 source:c:\users\rober\desktop\3 ads\parduotuve\pqueue.c
+	<stdlib.h>
+	"pqueue.h"
+
+1652108407 source:c:\users\rober\desktop\3 ads\parduotuve\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"queue.h"
+
+1652114196 source:c:\users\rober\desktop\3 ads\parduotuve\client.c
+	<stdio.h>
+	"client.h"
+
+1652114128 c:\users\rober\desktop\3 ads\parduotuve\client.h
+	<stdbool.h>
+
